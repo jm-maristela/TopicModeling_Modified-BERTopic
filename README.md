@@ -47,3 +47,5 @@ This project applies BERTopic, a transformer-based topic modeling technique, to 
   * Automatically merges similar topics based on similarity thresholds to improve coherence.
  
 **Visualization using Streamlit**
+* Access the dashboard here: https://bertopic-pinoybaiting.streamlit.app/
+ * NOTE: If app is asleep, click the "Yes, get this app back up!" button, allowing it to wake up, though this can take a few minutes.
