@@ -49,3 +49,7 @@ This project applies BERTopic, a transformer-based topic modeling technique, to 
 **Visualization using Streamlit**
 * Access the dashboard here: https://bertopic-pinoybaiting.streamlit.app/
  * NOTE: If app is asleep, click the "Yes, get this app back up!" button, allowing it to wake up, though this can take a few minutes.
+
+For additional reference: 
+[A More Granular Topic Modeling for Pinoybaiting Topics](https://github.com/gzachr/Thesis-Topic-Modeling)
+
